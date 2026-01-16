@@ -61,7 +61,7 @@ az account show
 
 **Expected output:**
 
-![Azure Account Show](images/azure-account-show.png)
+<img width="670" height="420" alt="image" src="https://github.com/user-attachments/assets/ad716cb2-9590-4929-b233-068028593ec0" />
 
 ---
 
@@ -77,7 +77,8 @@ az sshkey list
 
 **Expected output:**
 
-![SSH Key List](images/ssh-key-list.png)
+<img width="336" height="96" alt="git2" src="https://github.com/user-attachments/assets/9b91e85e-f7e8-400d-aea2-bbf7a1b2fd2d" />
+
 
 ---
 
@@ -91,7 +92,8 @@ az group list --output table
 
 **Expected output:** List of resource groups (e.g., `kml_rg_main-b9ce1552758746cc`)
 
-![Resource Group List](images/resource-group-list.png)
+<img width="638" height="172" alt="git3" src="https://github.com/user-attachments/assets/b5b618f5-7436-4c4f-ad50-ff4c20c852f5" />
+ng)
 
 > **Note:** Use the resource group name from your lab environment.
 
@@ -127,9 +129,6 @@ In some Azure CLI versions (including KodeKloud labs), the `--key-type` paramete
 - ✅ Saves the private key locally (typically in `~/.ssh/`)
 - ✅ Returns output with `publicKey`, `privateKeyPath`, and `fingerprint`
 
-**Expected output:**
-
-![SSH Key Created](images/ssh-key-created.png)
 
 ---
 
@@ -148,9 +147,7 @@ az sshkey show \
 - Name matches: `datacenter-kp`
 - Key type is RSA
 
-**Expected output:**
 
-![SSH Key Verification](images/ssh-key-show.png)
 
 ---
 
@@ -168,7 +165,7 @@ ls -l ~/.ssh/
 
 ---
 
-## ✅ Task Validation Checklist
+##  Task Validation Checklist
 
 Before submitting, verify:
 
