@@ -19,8 +19,7 @@ Create an SSH key pair with the following specifications:
 | Portal URL | https://portal.azure.com |
 | Username | `kk_lab_user_main-b9ce1552758746cc@azurefreekmlprod.onmicrosoft.com` |
 | Password | `&TkRSy@%` |
-| Start Time | Wed Dec 24 08:27:26 UTC 2025 |
-| End Time | Wed Dec 24 09:27:26 UTC 2025 |
+
 
 ---
 
